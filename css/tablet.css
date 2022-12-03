@@ -1,0 +1,28 @@
+header img {
+    width: 271px;
+}
+.header--title-container h1 {
+    font-size: 2.5rem;
+    margin-top: 1.5rem;
+}
+.main-tables-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+    margin: 0 auto;
+}
+.main-currency-table {
+    width: 50%;
+}
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+    margin: 0 auto;
+}
+.product-detail--card {
+    width: 49%;
+}
+.plans-container--slider {
+    justify-content: center;
+}
